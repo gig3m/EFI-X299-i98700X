@@ -352,6 +352,18 @@
 			<false/>
 		</dict>
 	</dict>
+	<key>GUI</key>
+	<dict>
+		<key>Scan</key>
+		<dict>
+			<key>Entries</key>
+			<true/>
+			<key>Linux</key>
+			<true/>
+		</dict>
+		<key>Theme</key>
+		<string>CrispyOSX</string>
+	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
 		<key>AppleRTC</key>
